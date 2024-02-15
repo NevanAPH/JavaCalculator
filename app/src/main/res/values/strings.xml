@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint_input1">Input number 1</string>
+    <string name="hint_input2">Input number 2</string>
+    <string name="hint_spinner">Select operation</string>
+    <string name="submit_button">Submit</string>
+    <string name="result_title">Result:</string>
+    <string name="result_empty">--</string>
+    <string-array name="calculate_method">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+
+</resources>
